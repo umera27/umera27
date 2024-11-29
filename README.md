@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Umera
-- 👀 I’m interested in web dev,problem solving stuff like that..
+- 👋 Hi, I’m Umera Masresha Junior Website Developer.
 - 🌱 I’m currently learning computer science degree at jimma university.
 - 📫 you can contact me through telegram link @technerdguy
 
