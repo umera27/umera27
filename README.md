@@ -8,7 +8,7 @@ I am a dedicated and enthusiastic developer with a passion for learning new tech
 
 ## 🚀 Skills
 
-- **Languages**: JavaScript
+- **Languages**: JavaScript,HTML,CSS
 - **Frameworks**: Bootstrap 
 - **Tools**: Git
 - **Databases**: MySQL
