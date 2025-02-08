@@ -21,19 +21,19 @@ Here are a few notable projects I've worked on:
 - **Description**: The idea is simple: when you want to read about a specific topic, like happiness, it will provide relevant Bible verses and topics related to that theme. I haven’t added all the Bible content yet, but it’s been a cool experience so far—definitely worth a try!
 
  - I’ve organized the Bible verses into a JSON file to make retrieval simpler. Plus, I added a feature to change the background color, which adds a nice touch. Check it out!.
-- **Technologies**: HTML,CSS,JAVASCRIPT.
+- **Technologies**: HTML, CSS, JavaScript.
 
 ### [Clipboard Landing Page](https://github.com/umera27/Day-09-Clipboard-Landing-Page)
 - **Description**: Landing Page.
-- **Technologies**: HTML,CSS.
+- **Technologies**: HTML, CSS.
 
 ### [Tip Calculator](https://github.com/umera27/Day-08-Tip-Calculator)
-- **Description**: This is a Tip Calculator web application designed to be responsive and interactive using HTML,CSS and JavaScript.
-- **Technologies**: HTML,CSS,JAVASCRIPT.
+- **Description**: This is a Tip Calculator web application designed to be responsive and interactive using HTML, CSS and JavaScript.
+- **Technologies**: HTML, CSS, JavaScript.
 
 ## 📫 Contact Me
 
-- **Email**: [umeramasresha@gmail.com](mailto:your-email@example.com)
+- **Email**: [umeramasresha@gmail.com](mailto:umeramasresha@gmail.com)
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 - **Twitter**: [@TechnerdGuyy](https://twitter.com/@TechnerdGuyy)
 
@@ -45,3 +45,38 @@ Here are a few notable projects I've worked on:
 - Playing video games and outdoor sports
 
 Thank you for visiting my profile! Feel free to connect with me on any of the platforms above. Let's collaborate and create something amazing together! 😊
+
+<style>
+  h1, h2, h3 {
+    transition: color 0.3s ease-in-out;
+  }
+
+  h1:hover, h2:hover, h3:hover {
+    color: #007acc;
+  }
+
+  a {
+    text-decoration: none;
+    transition: color 0.3s ease-in-out;
+  }
+
+  a:hover {
+    color: #ff4500;
+  }
+
+  ul {
+    transition: transform 0.3s ease-in-out;
+  }
+
+  ul:hover {
+    transform: scale(1.05);
+  }
+
+  p {
+    transition: background-color 0.3s ease-in-out;
+  }
+
+  p:hover {
+    background-color: #f0f0f0;
+  }
+</style>
