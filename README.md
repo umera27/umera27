@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm passionate about technology and coding. Here’s a bit about me:
 
+![profile picture](IMG_20241123_200611_110.jpg)
+
 ## 🧑‍💻 About Me
 
 I am a dedicated and enthusiastic developer with a passion for learning new technologies and building innovative projects. I enjoy solving complex problems and collaborating with others to create impactful solutions.
