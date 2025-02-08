@@ -28,7 +28,7 @@ Here are a few notable projects I've worked on:
 - **Technologies**: HTML,CSS.
 
 ### [Tip Calculator](https://github.com/umera27/Day-08-Tip-Calculator)
-- **Description**: A brief description of what this project does.
+- **Description**: This is a Tip Calculator web application designed to be responsive and interactive using HTML,CSS and JavaScript.
 - **Technologies**: HTML,CSS,JAVASCRIPT.
 
 ## 📫 Contact Me
