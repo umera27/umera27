@@ -46,37 +46,4 @@ Here are a few notable projects I've worked on:
 
 Thank you for visiting my profile! Feel free to connect with me on any of the platforms above. Let's collaborate and create something amazing together! 😊
 
-<style>
-  h1, h2, h3 {
-    transition: color 0.3s ease-in-out;
-  }
 
-  h1:hover, h2:hover, h3:hover {
-    color: #007acc;
-  }
-
-  a {
-    text-decoration: none;
-    transition: color 0.3s ease-in-out;
-  }
-
-  a:hover {
-    color: #ff4500;
-  }
-
-  ul {
-    transition: transform 0.3s ease-in-out;
-  }
-
-  ul:hover {
-    transform: scale(1.05);
-  }
-
-  p {
-    transition: background-color 0.3s ease-in-out;
-  }
-
-  p:hover {
-    background-color: #f0f0f0;
-  }
-</style>
