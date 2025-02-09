@@ -51,6 +51,8 @@ Here are a few notable projects I've worked on:
 - **Email**: [umeramasresha@gmail.com](mailto:umeramasresha@gmail.com)
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 - **Twitter**: [@TechnerdGuyy](https://twitter.com/@TechnerdGuyy)
+- **Telegram**:
+[@SelfTaughtDev1] (t.me/@SelfTaughtDev1SelfTaughtDev)
 
 ## 🌱 Hobbies and Interests
 
