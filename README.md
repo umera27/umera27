@@ -11,9 +11,9 @@ I am a dedicated and enthusiastic developer with a passion for learning new tech
 ## 🚀 Skills
 
 - **Languages**: JavaScript,HTML,CSS
-- **Frameworks**: Bootstrap 
+
 - **Tools**: Git
-- **Databases**: MySQL
+
 
 ## 🌟 Projects
 
@@ -51,8 +51,7 @@ Here are a few notable projects I've worked on:
 - **Email**: [umeramasresha@gmail.com](mailto:umeramasresha@gmail.com)
 
 - **Twitter**: [@TechnerdGuyy](https://twitter.com/@TechnerdGuyy)
-- **Telegram**:
-[@SelfTaughtDev1] (https://t.me/SelfTaughtDev1)
+- **Telegram**: https://t.me/SelfTaughtDev1
 
 ## 🌱 Hobbies and Interests
 
