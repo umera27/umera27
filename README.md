@@ -52,7 +52,7 @@ Here are a few notable projects I've worked on:
 
 - **Twitter**: [@TechnerdGuyy](https://twitter.com/@TechnerdGuyy)
 - **Telegram**:
-[SelfTaughtDev1] (https://t.me/@SelfTaughtDev1)
+[@SelfTaughtDev1] (https://t.me/SelfTaughtDev1)
 
 ## 🌱 Hobbies and Interests
 
