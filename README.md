@@ -25,13 +25,26 @@ Here are a few notable projects I've worked on:
  - I’ve organized the Bible verses into a JSON file to make retrieval simpler. Plus, I added a feature to change the background color, which adds a nice touch. Check it out!.
 - **Technologies**: HTML, CSS, JavaScript.
 
+![Bible Verse Webiste](IMG_20250208_190039_719.jpg)
+
+
+
 ### [Clipboard Landing Page](https://github.com/umera27/Day-09-Clipboard-Landing-Page)
 - **Description**: Landing Page.
 - **Technologies**: HTML, CSS.
 
+
+
+
+
 ### [Tip Calculator](https://github.com/umera27/Day-08-Tip-Calculator)
 - **Description**: This is a Tip Calculator web application designed to be responsive and interactive using HTML, CSS and JavaScript.
 - **Technologies**: HTML, CSS, JavaScript.
+
+
+
+![Tip Calculator](IMG_20250114_230204_010.jpg)
+
 
 ## 📫 Contact Me
 
