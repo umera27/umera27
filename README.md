@@ -31,7 +31,7 @@ I’m a passionate web developer who enjoys building clean, responsive, and user
 
 ## 🌐 Connect With Me  
 📫 Email: umeramasresha.com  
-🐦 Twitter/X: [x.com/_Tech_nerd](#)  
+🐦 Twitter/X: [_Tech_nerd](#)  
 
 
 
